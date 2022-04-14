@@ -12,6 +12,7 @@
 
 ## Swift 
 - [Type Casting](https://so-kyte.tistory.com/6)
+- [Hashable](https://so-kyte.tistory.com/15)
 
 <br>
 
