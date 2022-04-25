@@ -8,6 +8,7 @@
 - [ClipsToBounds vs MasksToBounds](https://so-kyte.tistory.com/3)
 - [UIStackView](https://so-kyte.tistory.com/10)
 - [SwiftGen](https://so-kyte.tistory.com/11)
+- [개발자 계정 팀 인증서 등록](https://so-kyte.tistory.com/28)
 
 <br>
 
@@ -15,6 +16,7 @@
 - [Type Casting](https://so-kyte.tistory.com/6)
 - [Hashable](https://so-kyte.tistory.com/15)
 - [Initialization - Structure/Class](https://so-kyte.tistory.com/27)
+- [Initialization](https://so-kyte.tistory.com/23)
 
 <br>
 
