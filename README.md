@@ -17,6 +17,7 @@
 - [Hashable](https://so-kyte.tistory.com/15)
 - [Initialization - Structure/Class](https://so-kyte.tistory.com/27)
 - [Initialization](https://so-kyte.tistory.com/23)
+- [atomic VS nonatomic](https://so-kyte.tistory.com/29)
 
 <br>
 
