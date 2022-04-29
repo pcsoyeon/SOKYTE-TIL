@@ -18,6 +18,9 @@
 - [Initialization - Structure/Class](https://so-kyte.tistory.com/27)
 - [Initialization](https://so-kyte.tistory.com/23)
 - [atomic VS nonatomic](https://so-kyte.tistory.com/29)
+- [mutating](https://so-kyte.tistory.com/32)
+- [Any/AnyObject](https://so-kyte.tistory.com/34)
+- [some](https://so-kyte.tistory.com/35)
 
 <br>
 
